@@ -1,2 +1,1 @@
-# gitskills
-只是一个用于学习git的仓库
+This is a test.
